@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axferperea
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in microcontroller's world
+- 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on aerospace data sicence projects
 - 📫 How to reach me axferperea@gmail.com
 
